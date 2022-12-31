@@ -1,5 +1,6 @@
 body {
-    background-image: url('../images/17066461\ \(1\).jpg');
+    background-image: url('../images/wallpapers-do-rick-and-morty-4k-para-pc-e-celular-3-scaled.jpg');
+    background-position: top center;
 }
 
 .login_form {
@@ -24,8 +25,9 @@ body {
 }
 
 .login_header h1 {
-    color: #333;
+    color: rgb(77, 77, 77);
     font-size: 1.5em;
+    text-shadow: 1px 1px 1px #000000;
     padding: 10px;
 }
 
